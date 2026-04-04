@@ -243,9 +243,8 @@ body {
   list-style: none;
 }
 
-.footer__links-other-images{
+.footer__links-other-images {
   list-style: none;
   display: flex;
   gap: 48px;
 }
-
