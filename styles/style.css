@@ -27,7 +27,7 @@ body {
   list-style: none;
 }
 
-.header-footer__link {
+.header__link {
   text-underline-offset: 4px;
 }
 
@@ -267,7 +267,11 @@ body {
   list-style: none;
 }
 
-.footer_link-without-underline {
+.footer__link {
+  text-underline-offset: 4px;
+}
+
+.link-without-underline {
   text-decoration: none;
 }
 
