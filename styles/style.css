@@ -248,7 +248,7 @@ body {
   gap: 140px;
   padding: 0 50px;
   font-size: 18px;
-  text-underline-offset: 4px;
+  min-height: 180px;
 }
 
 .footer__address {
